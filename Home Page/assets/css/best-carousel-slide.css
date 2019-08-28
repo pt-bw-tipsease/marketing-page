@@ -9,11 +9,11 @@ div.jumbotron.carousel-hero {
 }
 
 div.jumbotron.hero-nature {
-  background-image: url('../../assets/img/architect-at-the-construction.jpg');
+  background-image: url('../../assets/img/bg-enjoyingabeer.jpg');
 }
 
 div.jumbotron.hero-photography {
-  background-image: url('../../assets/img/architects-and-worker.jpg');
+  background-image: url('../../assets/img/bg-restaurant.jpg');
 }
 
 div.jumbotron.hero-technology {
@@ -67,4 +67,3 @@ span {
   font-style: inherit;
   font-weight: inherit;
 }
-
